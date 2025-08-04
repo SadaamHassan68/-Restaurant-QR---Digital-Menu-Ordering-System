@@ -1,6 +1,7 @@
 {
   "name": "restaurant-qr",
   "version": "1.0.0",
+  "type": "module",
   "description": "A modern restaurant QR code menu generator",
   "main": "index.js",
   "scripts": {
